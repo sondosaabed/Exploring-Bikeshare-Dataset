@@ -35,5 +35,4 @@ The Chicago and New York City files also have the following two columns:
 ![261718794-a3ab6442-ea9a-4ede-af3a-ff005ea9693b](https://github.com/sondosaabed/Nano-Degree-3rd-Project/assets/65151701/dd18fa1a-f285-49de-9742-85b56b35efc7)
 
 ### Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://stackoverflow.com/questions/12177576/how-to-use-git-log-graph-oneline-all-only-on-my-local-branches
