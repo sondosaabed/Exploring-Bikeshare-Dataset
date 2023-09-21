@@ -1,19 +1,23 @@
-### Date created
+# Exploring Bikeshare Dataset
+
+## Date created
+
 This project was created in Sep.21.2023
 
-### Exploring Bikeshare Dataset
+## Description
 
-#### Description
-In this project, I have used Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. 
-I have written code to import the data and answer interesting questions about it by computing descriptive statistics. 
+In this project, I have used Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington.
+I have written code to import the data and answer interesting questions about it by computing descriptive statistics.
 I also wrote a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-#### Files used
+## Files used
+
 - chicago.csv
 - new_york_city.csv
 - washington.csv
 
-#### The dataset
+## The dataset
+
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
     Start Time (e.g., 2017-01-01 00:07:57)
@@ -29,4 +33,5 @@ The Chicago and New York City files also have the following two columns:
     Birth Year
 
 ### Credits
+
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
