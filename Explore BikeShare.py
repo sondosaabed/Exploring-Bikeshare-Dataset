@@ -4,9 +4,8 @@
 
 ### Importing the necessary libraries
 import time
-import traceback # I used this to trace back the error catched
 import pandas as pd
-# import numpy as np I didnit actually use np
+import traceback # I used this to trace back the error catched
 
 #### this is the csv files dictionary
 CITY_DATA = { 'chicago': 'chicago.csv',
@@ -104,7 +103,7 @@ def load_data(city, month, day):
 
 ## this metohd I created to clean the data 
 ## cleaning the data included handling missing data 
-# also handle the high cardinality of dates
+## I have also handled the high cardinality of dates
 def clean_data(df, city):
     """
     Args:
