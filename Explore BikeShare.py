@@ -134,7 +134,7 @@ def handle_missing(df):
     print('These were filled by (Unknown) ')
     return df
 
-## this method I created to handle teh dates
+## this method I created to handle the dates
 def handle_dates(df, city):
     """
     Handle the dates as their datatypes using to_datetime pandas
@@ -192,7 +192,7 @@ def display_data(df):
         start_locaction=start_locaction +5
         view_data = input("Do you want to proceed showing the next 5 rows?\n").lower()
 
-# this method get the time travel frequent times
+# this method gets the time travel frequent times
 # to get that I used the mode built-in method
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
@@ -327,11 +327,13 @@ def main():
             type(e).__name__, " : ", e)
         traceback.print_exc()
 
+
 ############################
 
 # In this project the dataset of diffrent city is explored
 # by the user interactivly of diffrent cities
 
 ############################
+
 if __name__ == "__main__":
 	main()

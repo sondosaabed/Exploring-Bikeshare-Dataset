@@ -1,7 +1,5 @@
 # Exploring Bikeshare Dataset
 
-## Date created
-
 This project was created in Sep.21.2023
 
 ## Description
